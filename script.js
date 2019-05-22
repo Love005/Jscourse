@@ -1,3 +1,5 @@
+/* Variable  and datatypes */
+/*
 var FirstName = 'Love';
 console.log(FirstName);
 
@@ -12,3 +14,16 @@ console.log(job);
 
 job ='teacher';
 console.log(job);
+
+/* variable mutation  and type coercion */
+
+var FirstName ='Love';
+var age ='25';
+
+console.log(FirstName + ' ' + age );
+
+var job, ismarried;
+job = 'teacher';
+ismarried = false;
+
+console.log(FirstName +'is a ' + age +  'year old' +job + ' .Is he married?' + ismarried);
