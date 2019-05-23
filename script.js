@@ -27,3 +27,7 @@ job = 'teacher';
 ismarried = false;
 
 console.log(FirstName +'is a ' + age +  'year old' +job + ' .Is he married?' + ismarried);
+
+/*variable mutation */
+
+alert(FirstName +'is a ' + age +  'year old' +job + ' .Is he married?' + ismarried);
